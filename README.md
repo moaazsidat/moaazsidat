@@ -4,7 +4,7 @@ I'm a software engineer & designer experimenting at the intersection of atoms & 
 
 ## Current projects
 - cat - Autonomous 3D printed platform for snow blowing & lawn mowing
-- ![gpuvisor](https://github.com/moaazsidat/gpuvisor) - Quick view GPU stats in menubar on Linux
+- [gpuvisor](https://github.com/moaazsidat/gpuvisor) - Quick view GPU stats in menubar on Linux
 
 <!--
 ### Previous work 
