@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Moaaz 👋
+
+I'm a software engineer & designer experimenting at the intersection of atoms & bits. Currently building with wheeled robots, robotic arms & drones.
+
+## Current projects
+- cat - Autonomous 3D printed platform for snow blowing & lawn mowing
+- ![gpuvisor](https://github.com/moaazsidat/gpuvisor) - Quick view GPU stats in menubar on Linux
+
+<!--
+### Previous work 
 
 <!--
 **moaazsidat/moaazsidat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
