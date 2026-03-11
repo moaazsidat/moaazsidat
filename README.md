@@ -3,7 +3,7 @@
 I'm a software engineer & designer experimenting at the intersection of atoms & bits. Currently building with wheeled robots, robotic arms & drones.
 
 ## Current projects
-- cat - Autonomous 3D printed platform for snow blowing & lawn mowing
+- [cat](https://x.com/moaazsidat/status/2021311267760124319?s=20) - Autonomous 3D printed platform for snow blowing & lawn mowing
 - [gpuvisor](https://github.com/moaazsidat/gpuvisor) - Quick view GPU stats in menubar on Linux
 
 <!--
