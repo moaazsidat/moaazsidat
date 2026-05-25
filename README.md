@@ -1,13 +1,14 @@
 ## Hi, I'm Moaaz 👋
 
+Builder experimenting with bits & atoms. 
+
 I'm a software engineer & designer experimenting a bunch with AI accelerated software as well as hacking on wheel robots, arms & drones on nights & weekends.
 
 ## Current projects
+- <Unnamed> - Experiments with components for wheeled robots, robotic arms & drones
 - [Storybookable](https://storybookable.com) - Custom children's books made with AI
 - [cat](https://x.com/moaazsidat/status/2021311267760124319?s=20) - Autonomous 3D printed platform for snow blowing & lawn mowing
 - [gpuvisor](https://github.com/moaazsidat/gpuvisor) - Quick view GPU stats in menubar on Linux
-- Flowcorder - coming soon
-- Securistry - coming soon
 
 <!--
 ### Previous work 
