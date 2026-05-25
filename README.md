@@ -1,6 +1,6 @@
 ## Hi, I'm Moaaz 👋
 
-Builder experimenting with bits & atoms. Building agents at Amazon Robotics during the day, hacking on stuff on evenings & weekends
+Experimenting with bits & atoms. Building agents at Amazon Robotics during the day, hacking on stuff on evenings & weekends
 
 ## Current projects
 - `<Unnamed>` - Experiments with components for wheeled robots, robotic arms & drones
