@@ -1,6 +1,6 @@
 ## Hi, I'm Moaaz 👋
 
-I'm a software engineer & designer experimenting at the intersection of atoms & bits. Currently building with wheeled robots, robotic arms & drones.
+I'm a software engineer & designer experimenting a bunch with AI accelerated software as well as hacking on wheel robots, arms & drones on nights & weekends.
 
 ## Current projects
 - [Storybookable](https://storybookable.com) - Custom children's books made with AI
