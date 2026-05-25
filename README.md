@@ -1,8 +1,6 @@
 ## Hi, I'm Moaaz 👋
 
-Builder experimenting with bits & atoms. 
-
-I'm a software engineer & designer experimenting a bunch with AI accelerated software as well as hacking on wheel robots, arms & drones on nights & weekends.
+Builder experimenting with bits & atoms. Building agents at Amazon Robotics during the day, hacking on stuff on evenings & weekends
 
 ## Current projects
 - `<Unnamed>` - Experiments with components for wheeled robots, robotic arms & drones
