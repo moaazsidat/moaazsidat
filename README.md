@@ -8,6 +8,11 @@ Experimenting with bits & atoms. Building agents at Amazon Robotics during the d
 - [cat](https://x.com/moaazsidat/status/2021311267760124319?s=20) - Autonomous 3D printed platform for snow blowing & lawn mowing
 - [gpuvisor](https://github.com/moaazsidat/gpuvisor) - Quick view GPU stats in menubar on Linux
 
+
+## Legacy work
+ - [Spacedex](https://spacedex-web.vercel.app/) - AI generated spaced reptition flashcards
+ - [Tutr](https://web-tutr.vercel.app/) - Marketplace for university tutors
+ - [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) (2k+ stars) - QRCode Scanner for React Native
 <!--
 ### Previous work 
 
