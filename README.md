@@ -4,7 +4,7 @@ Experimenting with bits & atoms. Building agents at Amazon Robotics during the d
 
 ## Current projects
 - `<Unnamed>` - Experiments with components for wheeled robots, robotic arms & drones
-- - [cat](https://x.com/moaazsidat/status/2021311267760124319?s=20) - Autonomous 3D printed platform for snow blowing & lawn mowing
+- [cat](https://x.com/moaazsidat/status/2021311267760124319?s=20) - Autonomous 3D printed platform for snow blowing & lawn mowing
 - [Storybookable](https://storybookable.com) - Custom children's books made with AI
 - [Tadabbur](https://tadabbur.xyz) - Learn Quranic Arabic
 - [gpuvisor](https://github.com/moaazsidat/gpuvisor) - Quick view GPU stats in menubar on Linux
