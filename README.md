@@ -3,7 +3,7 @@
 Experimenting with bits & atoms. Building agents at Amazon Robotics during the day, hacking on stuff on evenings & weekends
 
 ## Current projects
-- [muxscale](https://muxscale.com/) - Text your agents on the go, over Tailscale (open-sourced)
+- [muxscale](https://muxscale.com/) - Monitor and unblock your coding agents from your phone
 - `<Unnamed>` - Experiments with components for wheeled robots, robotic arms & drones
 - [cat](https://x.com/moaazsidat/status/2021311267760124319?s=20) - Autonomous 3D printed platform for snow blowing & lawn mowing
 - [Storybookable](https://storybookable.com) - Custom children's books made with AI
